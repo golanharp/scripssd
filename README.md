@@ -1,0 +1,2 @@
+# scripssd
+Termux
